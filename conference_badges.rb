@@ -17,5 +17,6 @@ def assign_rooms(attendees)
     arr
 end
 
-def printer(attendees)
+def printer(assign_rooms)
+  puts assign_rooms
 end
