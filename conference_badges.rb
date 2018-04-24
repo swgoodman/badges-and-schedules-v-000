@@ -30,5 +30,3 @@ def printer(attendees)
   end
 end
 
-printer(attendees)
-binding.pry
