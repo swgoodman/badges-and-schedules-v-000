@@ -29,3 +29,5 @@ def printer(attendees)
     puts "#{badge}"
   end
 end
+
+binding.pry
