@@ -8,3 +8,8 @@ def batch_badge_creator(name)
     "Hello, my name is #{name}."
   end
 end
+
+def assign_rooms(attendees)
+end
+
+printer()
